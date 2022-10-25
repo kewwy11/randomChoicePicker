@@ -1,0 +1,1 @@
+For this project, i mostly made use of arrays, settimeout and setInterval. You type in the various options, which are seperated using a comma and when the enter key is clicked, it randomly selects and option.
